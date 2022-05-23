@@ -6,7 +6,7 @@ function App() {
 	return (
 		<main>
 			<section className="container">
-				<h3>{events.length} Events today</h3>
+				<h3>{events.length} Events</h3>
 				<List events={events} t />
 				<button onClick={() => setEvents([])}>Clear All</button>
 			</section>
