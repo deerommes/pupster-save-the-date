@@ -1,8 +1,8 @@
 {
   "name": "pupster-save-the-date",
   "version": "0.1.0",
+  "homepage": "https://deerommes.github.io/pupster-save-the-date/",
   "private": true,
-  "homepage": "https://github.com/deerommes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
