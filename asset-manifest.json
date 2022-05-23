@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pupster-save-the-date/static/css/main.d0a70ef6.css",
+    "main.js": "/pupster-save-the-date/static/js/main.e37f523d.js",
+    "static/js/787.80e8e2cb.chunk.js": "/pupster-save-the-date/static/js/787.80e8e2cb.chunk.js",
+    "index.html": "/pupster-save-the-date/index.html",
+    "main.d0a70ef6.css.map": "/pupster-save-the-date/static/css/main.d0a70ef6.css.map",
+    "main.e37f523d.js.map": "/pupster-save-the-date/static/js/main.e37f523d.js.map",
+    "787.80e8e2cb.chunk.js.map": "/pupster-save-the-date/static/js/787.80e8e2cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a70ef6.css",
+    "static/js/main.e37f523d.js"
+  ]
+}
